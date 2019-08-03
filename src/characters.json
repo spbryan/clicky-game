@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "./images/aela.jpg",
+        "selected": false
+    },
+    {
+        "id": 2,
+        "image": "./images/amalee.jpg",
+        "selected": false
+    },
+    {
+        "id": 3,
+        "image": "./images/astrid.jpg",
+        "selected": false
+    },
+    {
+        "id": 4,
+        "image": "./images/brynjolf.jpg",
+        "selected": false
+    },
+    {
+        "id": 5,
+        "image": "./images/cicero.jpg",
+        "selected": false
+    },
+    {
+        "id": 6,
+        "image": "./images/courier.jpg",
+        "selected": false
+    },
+    {
+        "id": 7,
+        "image": "./images/golldir.jpg",
+        "selected": false
+    },
+    {
+        "id": 8,
+        "image": "./images/hadvar.jpg",
+        "selected": false
+    },
+    {
+        "id": 9,
+        "image": "./images/mjol.jpg",
+        "selected": false
+    },
+    {
+        "id": 10,
+        "image": "./images/serana.jpg",
+        "selected": false
+    },
+    {
+        "id": 11,
+        "image": "./images/vex.jpg",
+        "selected": false
+    },
+    {
+        "id": 12,
+        "image": "./images/vilkas.jpg",
+        "selected": false
+    }
+]

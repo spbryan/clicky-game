@@ -1,7 +1,8 @@
-/* img {
-  height: 250px;
-  width: 250px;
-} */
+img {
+  object-fit: contain;
+  height: 240px;
+  width: 270px;
+}
 
 .card {
   background: #fff;
@@ -21,7 +22,8 @@
 	-webkit-transform: scale(1.5);
 	transform: scale(1.5);
 	-webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+  cursor: pointer;
 }
 .hover img:hover  {
 	margin-left: -30px;

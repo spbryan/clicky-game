@@ -5,8 +5,7 @@ function Wrapper(props) {
   console.log("boom");
   // return <div className="wrapper">{props.children}</div>;
   return (
-    // <div className="wrapper">
-      <div className="container">
+    <div className="wrapper">
         {props.children}
       {/* </div> */}
     </div>);

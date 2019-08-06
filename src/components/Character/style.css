@@ -16,13 +16,12 @@ img {
   overflow: hidden;
 }
 
-/* Slide */
  .hover img {
 	margin-left: 10px;
 	-webkit-transform: scale(1.5);
 	transform: scale(1.5);
-	-webkit-transition: .3s ease-in-out;
-  transition: .3s ease-in-out;
+	-webkit-transition: .2s ease-in-out;
+  transition: .2s ease-in-out;
   cursor: pointer;
 }
 .hover img:hover  {

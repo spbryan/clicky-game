@@ -19,13 +19,13 @@ class App extends React.Component {
     let selectedCharacterIds = this.state.selectedCharacterIds;
 
     if (selectedCharacterIds.includes(id)) {
-      this.setState({ selectedCharacterIds: [], score: 0, status: "Game Over! Loser!!. Click to play again!" });
+      this.setState({ selectedCharacterIds: [], score: 0, status: "You Have Failed! Click to Play Again!" });
       return;
     } else {
       selectedCharacterIds.push(id)
 
       if (selectedCharacterIds.length === 12) {
-        this.setState({ score: 12, status: "You Have Chosen Wisely! Click to play again!", selectedCharacterIds: [] });
+        this.setState({ score: 12, status: "You Have Chosen Wisely! Click to Play Again!", selectedCharacterIds: [] });
         return;
       }
 

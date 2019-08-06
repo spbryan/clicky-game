@@ -1,20 +1,12 @@
-/* body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-} */
-
-/* code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
-} */
-
 * {
   box-sizing: border-box;
-  font-family: sans-serif;
+  /* font-family: 'Cinzel', serif; */
+  /* font-family: 'Philosopher', sans-serif; */
+  /* font-family: 'Merienda', cursive; */
+  font-family: 'Cinzel Decorative', cursive;
+  /* font-family: 'Berkshire Swash', cursive; */
+  /* font-family: 'UnifrakturMaguntia', cursive; */
+  /* font-family: sans-serif; */
 }
 
 html, body, #root {

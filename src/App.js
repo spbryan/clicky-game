@@ -45,7 +45,7 @@ class App extends React.Component {
         <header className="App-header">
           <h1 className="App-title">Skyrim Click Game</h1>
           <p className="App-intro">
-            Do Not click on the same NPC Twice!
+            Do Not Click on the Same NPC Twice!
           </p>
         </header>
         <Score total={this.state.score}

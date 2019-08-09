@@ -44,9 +44,9 @@ class App extends React.Component {
       <div className="App">
         <header className="App-header">
           <h1 className="App-title">Skyrim Click Game</h1>
-          <p className="App-intro">
+          {/* <p className="App-intro">
             Do Not Click on the Same NPC Twice!
-          </p>
+          </p> */}
         </header>
         <Score total={this.state.score}
           goal={12}
@@ -63,18 +63,6 @@ class App extends React.Component {
           ))}
         </Wrapper>
       </div>
-      // <Wrapper>
-      //   <h1 className="title">Place Holder</h1>
-
-      //   {this.state.characters.map(character => (
-      //     <Character
-      //       id={character.id}
-      //       key={character.id}
-      //       image={character.image}
-      //       selected={character.selected}
-      //     />
-      //   ))}
-      // </Wrapper>
     );
   }
 }

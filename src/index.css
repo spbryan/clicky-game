@@ -1,12 +1,10 @@
-* {
+body {
   box-sizing: border-box;
-  /* font-family: 'Cinzel', serif; */
-  /* font-family: 'Philosopher', sans-serif; */
-  /* font-family: 'Merienda', cursive; */
   font-family: 'Cinzel Decorative', cursive;
-  /* font-family: 'Berkshire Swash', cursive; */
-  /* font-family: 'UnifrakturMaguntia', cursive; */
-  /* font-family: sans-serif; */
+  /* background: url("./images/winterhold.jpg"); */
+  background: url("./images/background6.jpg"); 
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 html, body, #root {

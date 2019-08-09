@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/clicky-game/static/css/main.19bde385.chunk.css",
+    "main.js": "/clicky-game/static/js/main.9969d10f.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.9969d10f.chunk.js.map",
+    "runtime~main.js": "/clicky-game/static/js/runtime~main.27874bd3.js",
+    "runtime~main.js.map": "/clicky-game/static/js/runtime~main.27874bd3.js.map",
+    "static/js/2.884c28c3.chunk.js": "/clicky-game/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/clicky-game/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.ac1d98dc4ae9e03b8d9c6df013c84eb4.js": "/clicky-game/precache-manifest.ac1d98dc4ae9e03b8d9c6df013c84eb4.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.19bde385.chunk.css.map": "/clicky-game/static/css/main.19bde385.chunk.css.map",
+    "static/media/index.css": "/clicky-game/static/media/background6.a614cf48.jpg",
+    "static/media/App.css": "/clicky-game/static/media/header.1774af69.jpg",
+    "static/media/style.css": "/clicky-game/static/media/old-paper-background.1eca2ed1.jpg"
+  }
+}
